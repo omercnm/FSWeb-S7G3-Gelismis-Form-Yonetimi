@@ -5,7 +5,7 @@ import styled from "styled-components";
 
 const Sc_fieldset = styled.fieldset`
   display: flex;
-  justify-content: space-evenly;
+  flex-direction: column;
   margin: auto, 250 px;
   color: darkslategray;
   font-family: "Roboto Mono", monospace;
